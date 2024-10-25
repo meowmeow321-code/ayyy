@@ -1,5 +1,5 @@
 export const config = {
-    avatar: 'https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-512.png',
+    avatar: 'https://cdn.jsdelivr.net/gh/alohe/avatars/png/3d_5.png',
     bgColor: '#18181b',
     textColor: '#d4d4d8',
     iconColor: '#d4d4d8',
