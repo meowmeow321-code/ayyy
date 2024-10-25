@@ -1,10 +1,10 @@
 export const config = {
-    avatar: 'https://avatars.githubusercontent.com/u/68690233',
+    avatar: 'https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-512.png',
     bgColor: '#18181b',
     textColor: '#d4d4d8',
     iconColor: '#d4d4d8',
-    name: 'ashish',
-    description: 'solo developer by day, overthinker by night.',
+    name: 'franek',
+    description: 'meow.',
     links: [
         {
             slug: 'twitter',
